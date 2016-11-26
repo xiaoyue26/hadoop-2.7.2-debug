@@ -1,0 +1,9 @@
+/home/xiaoyue26/Downloads/hadoop-2.7.2-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/src/main/java/org/apache/hadoop/mapred/ObjectClientHandler.java
+/home/xiaoyue26/Downloads/hadoop-2.7.2-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/src/main/java/org/apache/hadoop/mapred/Detail.java
+/home/xiaoyue26/Downloads/hadoop-2.7.2-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/src/main/java/org/apache/hadoop/mapred/ShuffleHandler.java
+/home/xiaoyue26/Downloads/hadoop-2.7.2-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/target/generated-sources/java/org/apache/hadoop/mapred/proto/ShuffleHandlerRecoveryProtos.java
+/home/xiaoyue26/Downloads/hadoop-2.7.2-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/src/main/java/org/apache/hadoop/mapred/DebugClient.java
+/home/xiaoyue26/Downloads/hadoop-2.7.2-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/src/main/java/org/apache/hadoop/mapred/ObjectServerHandler.java
+/home/xiaoyue26/Downloads/hadoop-2.7.2-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/src/main/java/org/apache/hadoop/mapred/Command.java
+/home/xiaoyue26/Downloads/hadoop-2.7.2-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/src/main/java/org/apache/hadoop/mapred/FadvisedFileRegion.java
+/home/xiaoyue26/Downloads/hadoop-2.7.2-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/src/main/java/org/apache/hadoop/mapred/FadvisedChunkedFile.java
